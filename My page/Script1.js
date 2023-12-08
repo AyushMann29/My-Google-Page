@@ -7,7 +7,7 @@ function search(){
     }
     else
     {
-        window.location.href="https://www.google.com/" + term;
+        window.location.href="https://www.google.com/";
     }
 }
 
@@ -20,7 +20,7 @@ function search(){
     }
     else
     {
-        window.location.href="https://www.google.com/" + term;
+        window.location.href="https://www.google.com/";
     }
 } 
 
